@@ -1,2 +1,3 @@
 # project-3
-html basic class
+html basic 
+I ihave studied about some html basics . something about headings,paragraph,brake the line,bolding sentences,convert the sentences into italic,change the specify sentences into strong theme,to highlight,to underline,to give hyper link and referrence link,and you can give images in two ways .first copy a link  and paste in code .second- move the folder into project folder and come to vc and give a splash in code and apply the image.
